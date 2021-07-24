@@ -1,2 +1,2 @@
 # hello-world
-first repo
+This is my first project's readme.md
