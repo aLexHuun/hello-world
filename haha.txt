@@ -1,1 +1,2 @@
 this is haha.txt
+add 2nd line.
